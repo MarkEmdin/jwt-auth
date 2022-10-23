@@ -1,4 +1,4 @@
-Training project using jwt oauth2
+Training project using jwt-oauth2
 
 **Stack:**
 
