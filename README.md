@@ -3,7 +3,7 @@ Training project using jwt-oauth2
 **Stack:**
 
 - ReactJS
-- MObX
+- MobX
 - Node.js
 - TypeScript
 - MongoDB
